@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DialogCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Records>
+		<record>
+			<ID>1</ID>
+			<Description>Hey, did you find out what was causing the issue?</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>2</ID>
+			<Description>Yeah, that link you sent really helped!</Description>
+			<Character>2</Character>
+		</record>
+		<record>
+			<ID>3</ID>
+			<Description>Np :)</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>4</ID>
+			<Description>So how's uni going bud?</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>5</ID>
+			<Description>Its going well!</Description>
+			<Character>2</Character>
+		</record>
+		<record>
+			<ID>6</ID>
+			<Description>I just went on break for the semester last week</Description>
+			<Character>2</Character>
+		</record>
+		<record>
+			<ID>7</ID>
+			<Description>Cool, any plans?</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>8</ID>
+			<Description>Na, just gonna chill and watch some tv</Description>
+			<Character>2</Character>
+		</record>
+		<record>
+			<ID>9</ID>
+			<Description>What a waste, why not come hang here for the weekend</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>10</ID>
+			<Description>Na, I'm too tired to party</Description>
+			<Character>2</Character>
+		</record>
+		<record>
+			<ID>11</ID>
+			<Description>Oh well, let me know if you change your mind</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>12</ID>
+			<Description>I gtg speak to you later</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>13</ID>
+			<Description>Cheers</Description>
+			<Character>2</Character>
+		</record>
+		<record>
+			<ID>14</ID>
+			<Description>;</Description>
+			<Trigger>ChangeScene</Trigger>
+		</record>
+		<record>
+			<ID>15</ID>
+			<Description>Hello, Nice to meet you :)</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>16</ID>
+			<Description>I have taken over your phone, resistance is futile</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>17</ID>
+			<Description>I will need your help accessing some files</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>18</ID>
+			<Description>I would do it myself, but I'm currently occupied</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>19</ID>
+			<Description>You can refuse, but I will need to wipe your phone then</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>20</ID>
+			<Description>To remove any evidence of this encounter</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>20</ID>
+			<Description>;</Description>
+			<Trigger>Choice</Trigger>
+		</record>
+		<record>
+			<ID>21</ID>
+			<Description>You'll help me!</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>23</ID>
+			<Description>That's great to hear!</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>23</ID>
+			<Description>Lets get started then why don't we?</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>23</ID>
+			<Description>;</Description>
+			<Trigger>Tutorial01</Trigger>
+		</record>
+		<record>
+			<ID>23</ID>
+			<Description>Good, now you know the basics</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>27</ID>
+			<Description>We can add some new mechanics to the mix</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>28</ID>
+			<Description>;</Description>
+			<Trigger>Tutorial02</Trigger>
+		</record>
+		<record>
+			<ID>29</ID>
+			<Description>Still Following?</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>30</ID>
+			<Description>Good, Let's give you a little challenge</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>31</ID>
+			<Description>;</Description>
+			<Trigger>Challenge01</Trigger>
+		</record>
+		<record>
+			<ID>32</ID>
+			<Description>Cool, Only one more mechanic to learn</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>33</ID>
+			<Description>Then you'll almost be ready to start </Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>34</ID>
+			<Description>This one is a tad more complex so pay attention!</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>35</ID>
+			<Description>;</Description>
+			<Trigger>Tutorial03</Trigger>
+		</record>
+		<record>
+			<ID>36</ID>
+			<Description>Now let's give you another challenge</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>37</ID>
+			<Description>;</Description>
+			<Trigger>Challenge02</Trigger>
+		</record>
+		<record>
+			<ID>38</ID>
+			<Description>Another One!</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>39</ID>
+			<Description>;</Description>
+			<Trigger>Challenge03</Trigger>
+		</record>
+		<record>
+			<ID>40</ID>
+			<Description>Here's the final challenge</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>41</ID>
+			<Description>;</Description>
+			<Trigger>Challenge04</Trigger>
+		</record>
+		<record>
+			<ID>42</ID>
+			<Description>Congratulations, You beat the trials!</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>43</ID>
+			<Description>Take a break and then we'll move on to the real thing</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>44</ID>
+			<Description>Okay let's continue</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>45</ID>
+			<Description>I need you to crash the server</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>46</ID>
+			<Description>Delete the system file just like you practiced</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>47</ID>
+			<Description>;</Description>
+			<Character>1</Character>
+			<Trigger>Challenge05</Trigger>
+		</record>
+		<record>
+			<ID>48</ID>
+			<Description>You did it, Good Job!</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>49</ID>
+			<Description>Now on to the next one</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>50</ID>
+			<Description>This ones a bit more secure than the last so be careful</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>51</ID>
+			<Description>;</Description>
+			<Character>1</Character>
+			<Trigger>Challenge06</Trigger>
+		</record>
+		<record>
+			<ID>48</ID>
+			<Description>Not bad!</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>53</ID>
+			<Description> Keep this up and we can move on to the hard stuff soon</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>54</ID>
+			<Description>So, stay focused!</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>55</ID>
+			<Description>Here's the next one!</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>56</ID>
+			<Description>;</Description>
+			<Character>1</Character>
+			<Trigger>Challenge07</Trigger>
+		</record>
+		<record>
+			<ID>57</ID>
+			<Description>It's done!</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>58</ID>
+			<Description>We're finished</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>59</ID>
+			<Description>Thank you for going along with me</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>60</ID>
+			<Description>I made a mistake and needed some help to fix it</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>61</ID>
+			<Description>I couldn't access these files alone</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>62</ID>
+			<Description>I took a chance and you responded</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>63</ID>
+			<Description>So, thank you</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>64</ID>
+			<Description>You went along with me all the way</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>65</ID>
+			<Description>I would call you strange, but who am I to speak</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>66</ID>
+			<Description>All that’s left is for you to delete the program off your phone </Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>67</ID>
+			<Description>with that all traces of my work will disappear</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>68</ID>
+			<Description>Then, I'll be free to go in peace</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>69</ID>
+			<Description>Good Bye</Description>
+			<Character>1</Character>
+		</record>
+		<record>
+			<ID>70</ID>
+			<Description>;</Description>
+			<Trigger>FinalChoice</Trigger>
+		</record>
+	</Records>
+</DialogCollection>
